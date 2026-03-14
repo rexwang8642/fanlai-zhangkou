@@ -1,0 +1,11 @@
+{
+  "disliked_foods": [
+    "香菜",
+    "葱",
+    "蒜"
+  ],
+  "spicy_level": "medium",
+  "favorite_drink": "可乐",
+  "address": "北京市朝阳区",
+  "notification": "console"
+}
